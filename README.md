@@ -73,7 +73,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - [Wolfram Challenges](https://challenges.wolfram.com/)
 
 ## Free Hosting Platforms for Python
-- [AWS](https://aws-amazon-com/)
+- [AWS](https://aws.amazon.com/websites/)
 - [FastComet](https://www-fastcomet-com/)
 - [Google Cloud](https://cloud-google-com/)
 - [Heroku](https://www-heroku-com/)
@@ -94,6 +94,7 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - Python Crash Course
 - Python Tricks by Dan Bader
 - Think Python
+- [Introduction to python programming and developing GUI application with PyQT](https://www.amazon.com/Introduction-Python-Programming-Developing-Applications/dp/1435460979)
 
 ## Python Community and Groups
 - [PySlackers](https://pyslackers.com/)
@@ -115,6 +116,8 @@ Have Python 3.7 or newer installed. You can check the version by typing `python3
 - Python for absolute beginners (Udemy)
 - Python for Everybody (Coursera)
 - The Python Bible (Udemy)
+- [Sentdex](https://youtube.com/c/sentdex)
+
 
 ## Python Devs to Follow on Twitter
 - To be Added
